@@ -1,4 +1,4 @@
-The original Hugo Icarus theme has been unmaintained for years, and as Hugo upgraded, some features broke (such as front-page post listin, recent posts, and post counts). This version fixes such issues. 
+The original Hugo Icarus theme has been unmaintained for years, and as Hugo upgraded, some features broke (such as front-page post listing, recent posts, and post counts). This version fixes such issues. 
 
 * Icarus
 
