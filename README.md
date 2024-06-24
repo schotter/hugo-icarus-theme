@@ -12,7 +12,7 @@ I assume you've Git installed. Inside the folder of your Hugo site run
 
 ```shell
 $ cd themes
-$ git clone https://gitlab.com/toryanderson/hugo-icarus.git
+$ git clone https://github.com/schotter/hugo-icarus-theme.git
 ```
 
 You should see a folder called `hugo-icarus-theme` inside the `themes` directory that we created a few moments ago. For more information read the official [setup guide](https://gohugo.io/overview/installing/) of Hugo.
