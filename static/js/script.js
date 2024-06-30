@@ -19,7 +19,15 @@
         });
     });
     if ($.fancybox){
-        $('.fancybox').fancybox();
+      $('.fancybox').fancybox(
+        helpers : {
+          buttons : {},
+          thumbs : {
+            width : 50,
+            height : 50
+          }
+        }
+      );
     }
 
     // Profile card
